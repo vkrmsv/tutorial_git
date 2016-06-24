@@ -9,10 +9,10 @@ from __future__ import division
 
 
 def print_hello(name):
-    print("Hello, {}!".format(name))
+    print("Hi, {}!".format(name))
 
 def print_greeting(name):
-    print("Good morning, {}!".format(name))
+    print("Good evening!, {}!".format(name))
     
     
 if __name__ == "__main__":
