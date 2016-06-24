@@ -6,3 +6,4 @@ def calculate_total(a_list):
 
 if __name__ == "__main__":
     print(calculate_total(range(13)))
+
