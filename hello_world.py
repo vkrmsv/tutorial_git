@@ -16,6 +16,6 @@ def print_greeting(name):
     
     
 if __name__ == "__main__":
-    print_hello("Sophia")
-    print_greeting("Rishi")
+    print_hello("Sora")
+    print_greeting("Radavast")
 
