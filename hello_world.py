@@ -9,9 +9,19 @@ from __future__ import division
 
 
 def print_hello(name):
+	'''
+	print
+	args:
+		name: name
+	'''
     print("Hi, {}!".format(name))
 
 def print_greeting(name):
+	'''
+	print
+	args:
+		name: name
+	'''
     print("Good evening!, {}!".format(name))
     
     
